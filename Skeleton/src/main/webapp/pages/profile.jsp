@@ -15,7 +15,7 @@
         <div>${user.firstName}${user.lastName}</div>
     	<div>id: ${user.id}</div>
 		<div>email: ${user.email}</div>
-        <div>team: ${user.team.teamName}</div>
+        <div>team: ${user.team.name}</div>
     </div>
 </body>  
 
